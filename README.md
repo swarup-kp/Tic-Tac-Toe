@@ -57,4 +57,4 @@ A fun and simple 2-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript
 git clone https://github.com/swarup-kp/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 open index.html in your browser
-
+.
