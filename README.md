@@ -16,8 +16,8 @@ A fun and simple 2-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-[🔗 Play it Live](https://swarup-kp.github.io/Tic-Tac-Toe/)  
-_(Update the link if needed)_
+[🔗 Play it Live] (https://swarup-kp.github.io/Tic-Tac-Toe/)
+
 
 ---
 
