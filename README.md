@@ -1,18 +1,14 @@
 # Tic-Tac-Toe ❌⭕️
 
-A fun and simple 2-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows players to take turns, checks for winners or draws, and displays the result in a clean UI.
+A fun and interactive *Tic-Tac-Toe* game built using *HTML, **CSS, and **JavaScript*. Challenge your friends, take turns as X and O, and see who can outsmart the other!
 
----
+## 🌟 Features
 
-## ✨ Features
-
-- 2-player gameplay
-- Real-time win and draw detection
-- Turn tracking with visual feedback
-- Reset and New Game options
-- Clean, responsive UI with animations
-
----
+- ✅ Two-player turn-based gameplay (X and O)
+- ✅ Auto-detects winner or declares a draw
+- ✅ *Reset* and *New Game* buttons
+- ✅ Visually appealing UI with smooth hover effects
+- ✅ Mobile-friendly & responsive layout
 
 ## 🚀 Live Demo
 
@@ -33,25 +29,45 @@ A fun and simple 2-player Tic-Tac-Toe game built using HTML, CSS, and JavaScript
 ![Draw Result](https://github.com/swarup-kp/Tic-Tac-Toe/blob/main/Screenshot%202025-07-30%20132321.png?raw=true)
 
 ---
-
 ## 🛠️ Tech Stack
 
-- **HTML5** – Game board structure
-- **CSS3** – Styling and responsive layout
-- **JavaScript (Vanilla)** – Game logic, click events, win/draw detection
+- *HTML5* – Structure
+- *CSS3* – Styling & responsive design
+- *JavaScript (Vanilla)* – Game logic & interactivity
 
----
+## 🚀 How to Play
 
-## 🧠 Game Logic
+1. Clone or download this repository.
+2. Open index.html in your browser.
+3. Click on any box to make your move.
+4. The game announces a winner or a draw automatically.
+5. Use the *Reset* or *New Game* button to start again.
 
-- 3x3 grid using `<button>` elements
-- Switches between `O` and `X` each turn
-- Checks for 8 win conditions
-- Displays win/draw message and disables board
+## 📂 File Structure
 
----
+📦 Tic-Tac-Toe/
+├── index.html # Main HTML file
+├── style.css # Styling for the game
+└── app.js # Game logic in JavaScript
 
-## 🖥️ How to Run Locally
+
+## 🎯 Winning Conditions
+
+This game checks for all the classic Tic-Tac-Toe winning combinations like:
+- Horizontal: [0,1,2], [3,4,5], [6,7,8]
+- Vertical: [0,3,6], [1,4,7], [2,5,8]
+- Diagonal: [0,4,8], [2,4,6]
+
+## 💡 Future Enhancements (Optional)
+
+- Add sound effects
+- Track score across multiple rounds
+- Add single-player mode vs. computer (AI)
+- Dark mode toggle
+
+## 🤝 Contributing
+
+Pull requests are welcome! If you find bugs or have suggestions for improvements, feel free to open an issue or submit a PR.
 
 ```bash
 git clone https://github.com/swarup-kp/Tic-Tac-Toe.git
