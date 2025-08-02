@@ -45,8 +45,7 @@ A fun and interactive *Tic-Tac-Toe* game built using *HTML, **CSS, and **JavaScr
 
 ## 📂 File Structure
 
-## 📦 Tic-Tac-Toe/
-
+📦 Tic-Tac-Toe/
 ├── index.html # Main HTML file
 ├── style.css # Styling for the game
 └── app.js # Game logic in JavaScript
