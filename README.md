@@ -43,12 +43,13 @@ A fun and interactive *Tic-Tac-Toe* game built using *HTML, **CSS, and **JavaScr
 4. The game announces a winner or a draw automatically.
 5. Use the *Reset* or *New Game* button to start again.
 
-## 📂 File Structure
+## 📁 File Structure
 
-📦 Tic-Tac-Toe/
-├── index.html # Main HTML file
-├── style.css # Styling for the game
-└── app.js # Game logic in JavaScript
+```plaintext
+Tic-Tac-Toe/
+├── index.html  # Main HTML file
+├── style.css   # Styling for the game
+└── app.js      # Game logic in JavaScript
 
 
 ## 🎯 Winning Conditions
