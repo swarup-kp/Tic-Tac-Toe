@@ -45,7 +45,8 @@ A fun and interactive *Tic-Tac-Toe* game built using *HTML, **CSS, and **JavaScr
 
 ## 📂 File Structure
 
-📦 Tic-Tac-Toe/
+## 📦 Tic-Tac-Toe/
+
 ├── index.html # Main HTML file
 ├── style.css # Styling for the game
 └── app.js # Game logic in JavaScript
@@ -69,8 +70,3 @@ This game checks for all the classic Tic-Tac-Toe winning combinations like:
 
 Pull requests are welcome! If you find bugs or have suggestions for improvements, feel free to open an issue or submit a PR.
 
-```bash
-git clone https://github.com/swarup-kp/Tic-Tac-Toe.git
-cd Tic-Tac-Toe
-open index.html in your browser
-.
